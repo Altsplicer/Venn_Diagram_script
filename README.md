@@ -7,7 +7,7 @@ Script [LINK](https://github.com/Altsplicer/Venn_Diagram_script/blob/main/r/VD_s
 This a script walk-through of the venndiagram options used in Met Cancer project for the Hertel and Kaiser lab.
 Documentation for ggvenn can be seen at https://github.com/yanlinlin82/ggvenn.
 A general tutorial for VennDiagram can be found in https://www.geeksforgeeks.org/how-to-create-a-venn-diagram-in-r/.
-
+You can also see this walk-through via this [link](https://altsplicer.github.io/Venn_Diagram_script/VD_script.html)
 ## Installation
 ```{r}
 #Install & load ggvenn
